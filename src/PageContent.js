@@ -8,7 +8,7 @@ export default class PageContent extends Component {
     const styles = {
       backgroundColor: isDarkMode
         ? "rgba(0, 0, 0, 0.75)"
-        : "rgba(255, 255, 255, 0.6)",
+        : "rgba(255, 255, 255, 0.5)",
       height: "100vh",
       width: "100vw"
     };
